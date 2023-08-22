@@ -1,6 +1,3 @@
-
-#B365 Final Project
-
 library(ggplot2) # plotting and heatmap
 library(rpart) # decision tree
 library(rpart.plot) # to plot rpart decision tree
